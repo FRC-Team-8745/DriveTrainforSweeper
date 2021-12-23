@@ -16,7 +16,7 @@ public class Sweeper {
     public static Spark grab = new Spark(2);
     public static XboxController driver = new XboxController(3);
     public static Compressor compressor = new Compressor();
-    public static Solenoid fourBar - new Solenoid(blank);
+    public static Solenoid fourBar = new Solenoid(blank);
     public static void drive(){
 //set your speeds
     double speed = 0.5;
